@@ -92,13 +92,6 @@ Expect updates soon. Feedback is welcome. Emotional breakdowns are understood.
 Created with love, late-night journaling, and emotional exhaustion by:
 
 - [Anvesha Rohatgi](https://github.com/Anvesha137)
-- [Khushi632](https://github.com/Khushi632)
-
----
-
-## 🪪 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
