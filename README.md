@@ -17,7 +17,7 @@
 > “I wasn’t trying to create a spiritual tool.  
 > I was trying not to feel like garbage at 3 PM with cold coffee and existential dread.”
 
-I built **SoulScript** not because I had some polished startup idea — but because I Ire tired, lost, and searching for meaning somewhere betIen our journal apps and the Bhagavad Gita.
+I built **SoulScript** not because I had some polished startup idea — but because I was tired, lost, and searching for meaning somewhere betIen our journal apps and the Bhagavad Gita.
 
 It’s not here to fix you. It’s here to sit with you.
 
