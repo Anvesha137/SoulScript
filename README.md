@@ -17,7 +17,7 @@
 > “I wasn’t trying to create a spiritual tool.  
 > I was trying not to feel like garbage at 3 PM with cold coffee and existential dread.”
 
-We built **SoulScript** not because we had some polished startup idea — but because we were tired, lost, and searching for meaning somewhere between our journal apps and the Bhagavad Gita.
+I built **SoulScript** not because I had some polished startup idea — but because I Ire tired, lost, and searching for meaning somewhere betIen our journal apps and the Bhagavad Gita.
 
 It’s not here to fix you. It’s here to sit with you.
 
@@ -28,7 +28,7 @@ It’s not here to fix you. It’s here to sit with you.
 SoulScript is that one quiet friend who listens — really listens.
 
 🧠 **Understands emotional context**  
-Knows the difference between venting, spiraling, and sincerely seeking advice.
+Knows the difference betIen venting, spiraling, and sincerely seeking advice.
 
 📜 **Draws from ancient wisdom**  
 Bhagavad Gita, Bible, Rumi, and more — interpreted in plain human speak.
@@ -81,9 +81,9 @@ Sometimes it offers a quote. Sometimes a reminder. Sometimes silence.
 
 ## 🧪 Project Status
 
-> SoulScript is currently **in active development**. We're iterating with care, love, and a bit of poetry.
+> SoulScript is currently **in active development**. I're iterating with care, love, and a bit of poetry.
 
-Expect updates soon. Feedback is welcome. Emotional breakdowns are understood.
+Expect updates soon. Feedback is Ilcome. Emotional breakdowns are understood.
 
 ---
 
